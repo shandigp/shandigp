@@ -12,11 +12,11 @@
 #### 1. [Universitas Pendidikan Indonesia](https://www.upi.edu) | Final Year Student of Physics Education | Bandung `2018-Now`
    - Laboratory Assistant of Electromagnetic and Optical Wave Experiments
  #### 2. [SMA N 1 Bukittinggi](https://sman1bukittinggi.sch.id) | IPA | Bukittinggi `2015-2018`
-   - Treasurer of red cross youth
+   - Treasurer of Red Cross Youth
 
 ## Experience:
 #### 1. [Zenius](https://www.zenius.net) | Student of Data Analytics | `Aug'2022 - Now`
-   - Literacy, numeracy, and scientific skills
+   - Literacy, Numeracy, and Scientific skills
    - Data Analytics
 #### 2. [Gramedia Academy](https://www.gramediaacademy.com) | Internship | `2021-2022`
    - Academic Representative

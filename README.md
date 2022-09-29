@@ -35,8 +35,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/shandi-gusti-pramadina-b56772200#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/shandi-gusti-pramadina-b56772200#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/shandi-gusti-pramadina#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/shandi-gusti-pramadina#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/shandigustip#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/shandigustip/#gh-dark-mode-only)
